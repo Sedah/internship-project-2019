@@ -1,0 +1,1 @@
+export {default as ShowResult} from './ShowResult';

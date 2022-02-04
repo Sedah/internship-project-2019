@@ -1,0 +1,77 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.ant-form-item {
+  margin-bottom: 8px !important;
+}
+
+.topic-tag .ant-list-item {
+  display: inline-block ;
+}
+
+.ant-list-vertical .ant-list-item-meta-title{
+  white-space: pre-wrap !important;
+}
+
+.idk-class label.ant-checkbox-group-item.ant-checkbox-wrapper{
+display: block;
+white-space: pre-wrap;
+text-indent: 50px;
+}
+
+.answer-box label.ant-radio-wrapper{
+  display: block;
+  white-space: pre-wrap;
+  text-indent: 50px;
+}
+
+.subject .ant-collapse-header{
+  background: moccasin !important;
+}
+
+.subject .ant-collapse-item {
+  background: moccasin !important;
+}
+
+.default .ant-collapse-header{
+  background: #c6dad9 !important;
+}
+
+.default .ant-collapse-item {
+  background: #c6dad9 !important;
+}
+
+.correct .ant-collapse-header{
+  background: palegreen !important;
+}
+
+.correct .ant-collapse-item {
+  background: palegreen !important;
+}
+
+.wrong .ant-collapse-header{
+  background: #ffa090 !important;
+}
+
+.wrong .ant-collapse-item {
+  background: #ffa090 !important;
+}
+
+.table table tr:nth-child(2n) td {
+  background-color: #eee;
+  }
+
+
+

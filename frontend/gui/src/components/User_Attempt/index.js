@@ -1,0 +1,1 @@
+export {default as Exam_Detail} from './Exam_Detail';
